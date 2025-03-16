@@ -1,0 +1,10 @@
+source: /
+collections_config: {}
+paths:
+  static: ''
+  uploads: uploads
+timezone: Pacific/Auckland
+markdown:
+  engine: commonmark
+  options:
+    html: true
